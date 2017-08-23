@@ -15,7 +15,7 @@
 
 
 <!--Navbar-->
-<nav class="navbar navbar-toggleable-md navbar-dark bg-primary">
+<nav class="navbar primary-color-dark navbar-toggleable-md navbar-dark fixed-top scrolling-navbar <?php echo is_front_page() ?  "navbar-transparent" : ""; ?>">
     <div class="container">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav1" aria-controls="navbarNav1" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>

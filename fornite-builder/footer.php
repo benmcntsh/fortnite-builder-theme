@@ -1,6 +1,6 @@
 
 <!--Footer-->
-<footer class="page-footer blue center-on-small-only">
+<footer class="page-footer primary-color-dark center-on-small-only">
        <!--Footer Links-->
     <div class="container-fluid">
         <div class="row">
