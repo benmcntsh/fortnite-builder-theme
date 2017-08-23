@@ -1,0 +1,13 @@
+{
+    "name": "benmcntsh/fortnite-builder-theme",
+    "description": "Custom theme for fortnitebuilder.com built on boostrap and material design",
+    "homepage": "https://github.com/benmcntsh/fortnite-builder-theme",
+    "authors": [
+        {
+            "name": "Ben McIntosh",
+            "email": "ben.mcintosh@gmail.com",
+            "homepage": "http://fortnitebuilder.com",
+            "role": "Developer"
+        }
+    ]
+}
