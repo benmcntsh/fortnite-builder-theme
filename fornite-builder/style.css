@@ -1,0 +1,55 @@
+/*
+Theme Name: MDB Half Page Carousel 
+Theme URI: http://www.mdbootstrap.com 
+Description: This is outstanding WP Blog theme developed on Material Design for Bootstrap 4
+Version: 1
+Author: MDBootstrap.com
+Author URI: http://www.mdbootstrap.com
+*/
+        main {
+          padding-top: 5rem;
+          padding-bottom: 2rem;
+        }
+        html,
+        body {
+            height: 100%;
+        }
+        /* Navigation*/
+
+
+        .navbar-transparent:not(.top-nav-collapse) {
+            background-color: transparent!important;
+        }
+
+
+        .scrolling-navbar {
+            -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
+            -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
+            transition: background .5s ease-in-out, padding .5s ease-in-out;
+        }
+        /* Carousel*/
+
+        .carousel {
+            height: 50%;
+        }
+
+        @media (max-width: 776px) {
+            .carousel {
+                height: 100%;
+            }
+        }
+
+        .carousel-item,
+        .active {
+            height: 100%;
+        }
+
+        .carousel-inner {
+            height: 100%;
+        }
+
+        /*Caption*/
+
+        .flex-center {
+            color: #fff;
+        }
