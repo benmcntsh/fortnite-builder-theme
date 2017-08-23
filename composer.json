@@ -1,5 +1,7 @@
 {
     "name": "benmcntsh/fortnite-builder-theme",
+	"type": "wordpress-theme",
+	"version": "master",	
     "description": "Custom theme for fortnitebuilder.com built on boostrap and material design",
     "homepage": "https://github.com/benmcntsh/fortnite-builder-theme",
     "authors": [
